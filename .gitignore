@@ -1,1 +1,3 @@
 twilio.env
+.htaccess
+node_modules
